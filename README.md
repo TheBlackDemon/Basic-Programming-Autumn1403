@@ -1,46 +1,62 @@
 # Basic Programming Autumn 1403
 Welcome to the "Basic Programming" course of [Department of Mathematical Sciences](http://math.sharif.edu), [Sharif University of Technology](https://sharif.edu).
+[Link to Section One](#برنامه-درسی)|[Link to Section Two](#برنامه-درسی)
+[Link to Section One](#آشنایی-با-برنامه-نویسی-و-جاوا)|[Link to Section Two](#آشنایی-با-برنامه-نویسی-و-جاوا)
+[Link to Section One](#آشنایی-با-دستورالعمل-نویسی-و-زبان-کامپیوتر)|[Link to Section Two](#آشنایی-با-دستورالعمل-نویسی-و-زبان-کامپیوتر)
+[Link to Section One](#آشنایی-با-کامپیوتر-و-سیستم-عامل)|[Link to Section Two](#آشنایی-با-کامپیوتر-و-سیستم-عامل)
+[Link to Section One](#ارزیابی)|[Link to Section Two](#ارزیابی)
+## فهرست مطالب	
+### برنامه درسی	
+#### معرفی درس	
+#### آشنایی با کامپیوتر و سیستم عامل	
+#### آشنایی با دستورالعمل نویسی و زبان کامپیوتر	
+#### آشنایی با برنامه نویسی و جاوا	
+#### متغیرها و محاسبات اولیه	
+#### عملگرهای شرطی	
+#### حلقه‌ها	
+#### آرایه‌ها	
+#### توابع و ارجاع در جاوا	
+#### توابع بازگشتی	
+#### کار با رشته‌ها	
+#### کار با فایل	
+#### آشنایی با برنامه نویسی شی‌گرا	
+### ارزیابی	
+#### بارم ارزیابی	
+#### امتحان پایان ترم	
+#### تمرین ها	
+#### پروژه	
+### شیوه‌نامه‌ی تحویل بخش‌های عملی	
+### فایل نتایج ارزیابی
 
-# برنامه درسی 
-## معرفی درس 
-  ### ۲۸ مهر
-## آشنایی با کامپیوتر و سیستم عامل
-  ### ۲۸-۳۰ مهر
-## آشنایی با دستورالعمل نویسی و زبان کامپیوتر
-  ### ۵-۷ آبان
-## آشنایی با برنامه نویسی و جاوا
-  ### ۱۴-۱۲ آبان
-  ### تمرین اول
-## متغیرها و محاسبات اولیه
-  ### ۱۹-۲۱ آبان
-## عملگرهای شرطی
-  ### ۲۶-۲۸ آبان
-  ###  تمرین دوم
-## حلقه‌ها
-  ### ۳-۵ آذر
-## آرایه‌ها
-  ### ۱۰-۱۲ آذر 
-  ### تمرین سوم
-## توابع و ارجاع در جاوا
- ###  ۱۷-۱۹ آذر
-## توابع بازگشتی
-  ### ۲۴-۲۶ آذر
- ###  تمرین چهارم
-## آشنایی با برنامه نویسی شی‌گرا
- ###  ۱-۳ دی
-## کار با رشته‌ها
-  ### ۸ دی
-## ساختارهای داده در جاوا
- ###  ۱۰ دی
-###   تمرین پنجم
-## کار با فایل
- ###  ۱۵ دی
-## استفاده از ابزارها در جاوا
- ###  ۱۷ دی
-   ## پروژه
-   ### بخش اصلی 
- ####  ۱۲ نمره
- ####  بخش های امتیازی حداکثر ۴ نمره
-   ## [شیوه‌نامه‌ی تحویل بخش‌های عملی](https://docs.google.com/document/d/128ewNmCjNrep58gVI-zU369GsI3pRn3NeebraLQzRRU/edit?tab=t.0),  
-   ## [فایل نتایج ارزیابی](https://docs.google.com/spreadsheets/d/1pgOZ_LtdX7Du9OJ9I6MFxSUBgWHmYniUCaOjDy5tm5s/edit?usp=sharing), 
-   
+
+
+
+
+
+
+| Feature       | Description                     | Status     |
+|---------------|---------------------------------|------------|
+| Feature 1     | Brief description of feature 1  | Complete   |
+| Feature 2     | Brief description of feature 2  | In Progress|
+| Feature 3     | Brief description of feature 3  | Planned    |
+| Feature       | Description                     | Status     |
+|---------------|---------------------------------|------------|
+| Feature 1     | Brief description of feature 1  | Complete   |
+| Feature 2     | Brief description of feature 2  | In Progress|
+| Feature 3     | Brief description of feature 3  | Planned    |
+| Feature       | Description                     | Status     |
+|---------------|---------------------------------|------------|
+| Feature 1     | Brief description of feature 1  | Complete   |
+| Feature 2     | Brief description of feature 2  | In Progress|
+| Feature 3     | Brief description of feature 3  | Planned    |
+| Feature       | Description                     | Status     |
+|---------------|---------------------------------|------------|
+| Feature 1     | Brief description of feature 1  | Complete   |
+| Feature 2     | Brief description of feature 2  | In Progress|
+| Feature 3     | Brief description of feature 3  | Planned    |
+| Feature       | Description                     | Status     |
+|---------------|---------------------------------|------------|
+| Feature 1     | Brief description of feature 1  | Complete   |
+| Feature 2     | Brief description of feature 2  | In Progress|
+| Feature 3     | Brief description of feature 3  | Planned    |
+
