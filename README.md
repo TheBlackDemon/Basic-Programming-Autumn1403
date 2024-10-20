@@ -41,6 +41,6 @@ Welcome to the "Basic Programming" course of [Department of Mathematical Science
    ### بخش اصلی 
    ۱۲ نمره
    بخش های امتیازی حداکثر ۴ نمره
-   ## [شیوه‌نامه‌ی](https://docs.google.com/document/d/128ewNmCjNrep58gVI-zU369GsI3pRn3NeebraLQzRRU/edit?tab=t.0), تحویل بخش‌های عملی
-   ## [فایل](https://docs.google.com/spreadsheets/d/1pgOZ_LtdX7Du9OJ9I6MFxSUBgWHmYniUCaOjDy5tm5s/edit?usp=sharing), نتایج ارزیابی
+   ## [شیوه‌نامه‌ی تحویل بخش‌های عملی](https://docs.google.com/document/d/128ewNmCjNrep58gVI-zU369GsI3pRn3NeebraLQzRRU/edit?tab=t.0), 
+   ## [فایل نتایج ارزیابی](https://docs.google.com/spreadsheets/d/1pgOZ_LtdX7Du9OJ9I6MFxSUBgWHmYniUCaOjDy5tm5s/edit?usp=sharing), 
    
