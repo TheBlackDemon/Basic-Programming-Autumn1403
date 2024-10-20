@@ -69,3 +69,8 @@ Welcome to the "Basic Programming" course of [Department of Mathematical Science
 ## استفاده از ابزارها در جاوا
 
    ۱۷ دی
+   ## پروژه
+   ### بخش اصلی 
+   ۱۲ نمره
+   بخش های امتیازی حداکثر ۴ نمره
+   
