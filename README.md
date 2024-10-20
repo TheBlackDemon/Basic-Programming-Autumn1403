@@ -26,7 +26,7 @@ Welcome to the "Basic Programming" course of [Department of Mathematical Science
 
 عملگرهای شرطی
 
-    ۲۶-۲۸ آبان
+   ۲۶-۲۸ آبان
     تمرین دوم
 
 حلقه‌ها
