@@ -8,7 +8,7 @@ Welcome to the "Basic Programming" course of [Department of Mathematical Science
 [Link to Section One](#آشنایی-با-کامپیوتر-و-سیستم-عامل)|[Link to Section Two](#آشنایی-با-کامپیوتر-و-سیستم-عامل)
 [Link to Section One](#ارزیابی)|[Link to Section Two](#ارزیابی)
 ## فهرست مطالب	
-### [برنامه درسی](#برنامه-درسی)|[Link to Section Two](#برنامه-درسی)	
+### [برنامه درسی](#برنامه-درسی)
 #### معرفی درس	
 #### آشنایی با کامپیوتر و سیستم عامل	
 #### آشنایی با دستورالعمل نویسی و زبان کامپیوتر	
