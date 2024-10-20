@@ -2,13 +2,13 @@
 Welcome to the "Basic Programming" course of [Department of Mathematical Sciences](http://math.sharif.edu), [Sharif University of Technology](https://sharif.edu).
 
 
-[Link to Section One](#برنامه-درسی)|[Link to Section Two](#برنامه-درسی)
+
 [Link to Section One](#آشنایی-با-برنامه-نویسی-و-جاوا)|[Link to Section Two](#آشنایی-با-برنامه-نویسی-و-جاوا)
 [Link to Section One](#آشنایی-با-دستورالعمل-نویسی-و-زبان-کامپیوتر)|[Link to Section Two](#آشنایی-با-دستورالعمل-نویسی-و-زبان-کامپیوتر)
 [Link to Section One](#آشنایی-با-کامپیوتر-و-سیستم-عامل)|[Link to Section Two](#آشنایی-با-کامپیوتر-و-سیستم-عامل)
 [Link to Section One](#ارزیابی)|[Link to Section Two](#ارزیابی)
 ## فهرست مطالب	
-### برنامه درسی	
+### [برنامه درسی](#برنامه-درسی)|[Link to Section Two](#برنامه-درسی)	
 #### معرفی درس	
 #### آشنایی با کامپیوتر و سیستم عامل	
 #### آشنایی با دستورالعمل نویسی و زبان کامپیوتر	
